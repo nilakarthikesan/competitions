@@ -1,3 +1,9 @@
+# Cyber competitions fork
+
+This is a fork of [Cyber Skyline’s cyber competitions project](https://github.com/CyberSkyline/competitions). The upstream project documentation follows below; this repository should not be read as an original application authored entirely by me.
+
+---
+
 # Cyber Competitions
 
 This is a project to showcase cyber competitions for students & learners.
